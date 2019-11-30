@@ -1,0 +1,111 @@
+*{
+	padding: 0px;
+	margin: 0px;
+}
+img{
+	max-width: 100%;
+	height: auto;
+}
+.main-sec{
+ background-image: url(images/ss_01.png);
+ height: 400px;
+ background-size: cover;
+
+}
+.main{
+
+}
+.main h1{
+    color: #ffffff;
+    padding-top: 20px;
+
+}
+.a{
+	margin-top: 110px;
+
+}
+.a h4{
+    color: #ffffff;
+}
+.a h3{
+    font-size: 35px;
+    color: #ffffff;
+}
+.dive-sec{
+
+}
+.dive{
+
+}
+.dive h2{
+	/*text-align: center;*/
+	/*font-size: 3px;*/
+	    text-align: center;
+    /* font-size: 3px; */
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+.add{
+
+}
+.add p{
+	    margin-right: 91px;
+
+}
+.add img{
+
+}
+.n1{
+    text-align: center;
+    padding: 10px 0px 0px 0px;
+    font-weight: 400;
+}
+
+.n2{
+
+}
+.n2 a{
+
+}
+.n2 p{
+	display: inline-block;
+
+}
+.n2 em{
+    float: right;
+}
+.add1{
+
+}
+.add1 h5{
+
+}
+.all{
+
+}
+.all img{    width: 30%;
+ 
+    margin-top: 32px;
+
+}
+.all p{
+	   position: absolute;
+    font-size: 11px;
+    margin: 34px 0px 0px 6px;
+    display: inline-block;
+line-height: 20px;
+}
+.all em{
+font-size: 15px;
+    color: #ba557e;
+    
+}
+.sa{
+
+}
+.sa img{
+
+}
+.sa p{
+	
+}
